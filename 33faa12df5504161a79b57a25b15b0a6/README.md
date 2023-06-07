@@ -1,0 +1,89 @@
+[Published runs](../README.md)
+
+# llm.py
+
+| ID                   | Operation           | Started                  | Time                | Status           | Label                |
+| --                   | ---------           | ---------                | ----                | ------           | -----                |
+| 33faa12d | llm.py | 2023&#8209;06&#8209;05 16:36:18 UTC | 0:00:19 | completed | do_sample=yes max_length=1024 prompt='The quick brown fox' skip_special_tokens=yes |
+
+[run.yml](run.yml)
+
+## Contents
+
+- [Flags](#flags)
+- [Scalars](#scalars)
+- [Run Files](#run-files)
+- [Source Code](#source-code)
+- [Output](#output)
+
+## Flags
+
+| Name | Value |
+| ---- | ----- |
+| do_sample | yes |
+| early_stopping |  |
+| max_length | 1024 |
+| no_repeat_ngram_size |  |
+| num_beams |  |
+| num_return_sequences |  |
+| prompt | The quick brown fox |
+| skip_special_tokens | yes |
+| temperature |  |
+| top_k |  |
+
+[flags.yml](flags.yml)
+## Scalars
+
+There are no scalars for this run.
+## Run Files
+
+There are no files for this run.
+## Source Code
+
+| Path | Size | Modified | MD5 |
+| ---- | ---- | -------- | --- |
+| [llm.ipynb](sourcecode/llm.ipynb) | 11.6K | 2023-06-05 11:36:18 UTC | 7f99606ad564c866e8a83d0e137df793 |
+| [llm.py](sourcecode/llm.py) | 1.5K | 2023-06-05 11:36:18 UTC | 10000342955b86dbba9d570447c40197 |
+| [output.txt](sourcecode/output.txt) | 4.2K | 2023-06-05 11:36:38 UTC | c3ba62d59f3e0ca6bacfad56787a44d6 |
+| [requirements.txt](sourcecode/requirements.txt) | 19 | 2023-06-05 11:36:18 UTC | d6394f1cab4248b4578f4b03a5b68877 |
+
+[sourcecode.csv](sourcecode.csv)
+## Output
+
+```
+
+Output:
+----------------------------------------------------------------------------------------------------
+The quick brown fox and the long-haired black wolf also have a big "E" tattoo on their body, showing off their long and brown fur and their short blond hair.
+
+"We thought this may be a secret for a very long time, but now it seems that the girl from the past is actually the person who made our secret. This means they are not only trying to trick us, but their intentions don't end well! We didn't really know all of this, but now we're getting a lot closer to finding out, and I'm going to be sending you all out of town this week to help the little little girl!!"
+
+A smile appeared on my face once more, as everyone in the classroom seemed to be happy for me to send these two big boys. In reality, even the little girl from the old school got a little older than me in high school, so I decided that no one would ever notice who I am talking to anymore. As a result, the next day, three years later, I had to put someone else in charge of the school, but that person was the person who knew I worked hard, and I managed to get some kind of job in order to make it even better.
+
+There are only seven jobs left in the school, so I needed to go find a new one to fulfill that dream. Since school was running late so soon, when I needed to get back home and make the final preparations, I wanted to use all of my spare time and help another students become famous. But of course, it didn't work out for all of us, so I had to get all of my students to join the group. And of course the girl from yesterday was still in high school, so, I have to take care of her now too, so it was up to me to do my best of making her famous.
+
+At that time, I have to say, I looked forward to her becoming the person who could make her famous.
+
+"Yeah. That may not be too bad at all, but I really won't be able to do that this time!!"
+
+A person appeared in the middle of the hallway who was wearing a black and blue uniform. He said with a smile, as if he had his hand on the front of his chest. Though, it was too bad, since he had just met my father, when he had come down from the mountains. In order to change the way he thought about dealing with my world, he finally told me that he was going to come with me that day!!
+
+"I said, take the time to enjoy your time."
+
+At some point, I met up with someone in front of the classroom from the past, who had a big "S" tattoo. This person was in a big "E" tattoo on his uniform, and had black hair that was the size of a tennis ball. As a kid, he had great body and long body hair, but now, he had really long white hair with short legs and long shoulders, and he was looking like he had the most beautiful face. Although, I still did not have his father's permission to put it into my memory.
+
+He told me that he wanted to have a special time with me in order to have a happy birthday at my new house, and even after you come back to the present world, I didn't have anything to worry about. So, I came to look after his little sister.
+
+"Sorry about leaving but I'll try to get back home anytime soon. There aren't any people here I won't be able to help, so if I get any kind of help, just get home now."
+
+From this perspective, I could definitely help for him, but right now, there were a lot of people in the classroom who were looking at him like that because they were not going to give up on their dreams. The man in the middle of the hallway really wanted to help out, so I told him.
+
+"The person that gave me the gift to work there was the girl that wanted to make my home stronger. But now, she's a bit tired and I hope everyone is well. Please rest up and go watch a movie. It really didn't seem weird that you did it!!"
+
+The girl who gave me it was a woman that didn't even want to give me much attention, but because she was worried, I didn't stay like that all day. Even though her father was in high school, she came to his place as if she were sleeping.
+
+After her dad said something about that person's life, the teacher had just heard that her father had died. She said that the only reason for her father's death was because she had given up her body to become the ruler of the school. However, even after she had given up her body, there was still the worry about her mother. She said that she was still able to care for her anymore; although she
+```
+
+[output.txt](output.txt)
+

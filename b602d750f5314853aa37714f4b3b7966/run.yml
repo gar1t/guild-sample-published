@@ -1,0 +1,10 @@
+id: b602d750f5314853aa37714f4b3b7966
+operation: c.py
+status: completed
+started: 2023-06-05 15:35:17 UTC
+stopped: 2023-06-05 15:35:17 UTC
+time: 0:00:00
+marked: 'no'
+label: null
+command: /usr/bin/python -um guild.op_main c
+exit_status: 0

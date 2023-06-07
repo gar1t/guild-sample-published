@@ -1,0 +1,10 @@
+prepare-data:
+  exec: touch 'data.csv'
+  tags:
+    - dataset
+    - csv
+
+train:
+  exec: touch 'model.csv'
+  requires:
+    - operation: prepare-data

@@ -1,0 +1,10 @@
+id: 4cc9cab7b41048f58cde8031d79a59c6
+operation: prepare-data
+status: completed
+started: 2023-06-07 15:59:07 UTC
+stopped: 2023-06-07 15:59:07 UTC
+time: 0:00:00
+marked: 'no'
+label: null
+command: touch data.csv
+exit_status: 0

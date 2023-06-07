@@ -1,0 +1,10 @@
+do_sample: true
+early_stopping: null
+max_length: 1024
+no_repeat_ngram_size: null
+num_beams: null
+num_return_sequences: null
+prompt: The quick brown fox
+skip_special_tokens: true
+temperature: null
+top_k: null

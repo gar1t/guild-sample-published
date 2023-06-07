@@ -1,0 +1,10 @@
+id: cf5364ba10934ef6bffec01761bf7907
+operation: sleep.py
+status: completed
+started: 2023-06-07 00:11:18 UTC
+stopped: 2023-06-07 00:27:58 UTC
+time: 0:16:39
+marked: 'no'
+label: seconds=999
+command: /usr/bin/python -um guild.op_main sleep --seconds 999
+exit_status: 0

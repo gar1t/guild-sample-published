@@ -1,0 +1,10 @@
+id: b5eb7d7da56e4f30bdba04c30580e1dd
+operation: a.py
+status: completed
+started: 2023-06-05 15:35:12 UTC
+stopped: 2023-06-05 15:35:12 UTC
+time: 0:00:00
+marked: 'no'
+label: null
+command: /usr/bin/python -um guild.op_main a
+exit_status: 0

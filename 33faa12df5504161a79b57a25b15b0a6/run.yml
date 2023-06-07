@@ -1,0 +1,11 @@
+id: 33faa12df5504161a79b57a25b15b0a6
+operation: llm.py
+status: completed
+started: 2023-06-05 16:36:18 UTC
+stopped: 2023-06-05 16:36:38 UTC
+time: 0:00:19
+marked: 'no'
+label: do_sample=yes max_length=1024 prompt='The quick brown fox' skip_special_tokens=yes
+command: /home/garrett/Code/guild-applied/llm/.venv/bin/python -um guild.op_main llm --do_sample
+  true --max_length 1024 --prompt "The quick brown fox" --skip_special_tokens true
+exit_status: 0

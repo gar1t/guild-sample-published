@@ -1,0 +1,11 @@
+id: 77bc78a2e5d94caeba9f2b5a81ad8fba
+operation: llm.py
+status: error
+started: 2023-06-05 16:29:36 UTC
+stopped: 2023-06-05 16:29:37 UTC
+time: 0:00:00
+marked: 'no'
+label: max_length=50 prompt='This is the default prompt' skip_special_tokens=yes
+command: /usr/bin/python -um guild.op_main llm --max_length 50 --prompt "This is the default
+  prompt" --skip_special_tokens true
+exit_status: 1

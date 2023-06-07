@@ -1,0 +1,10 @@
+id: 0bc5e11097234800b93a11e480fd088a
+operation: train.py
+status: completed
+started: 2023-06-07 04:05:29 UTC
+stopped: 2023-06-07 04:05:29 UTC
+time: 0:00:00
+marked: 'no'
+label: noise=0.1 x=-1.25850
+command: /usr/bin/python -um guild.op_main train --noise 0.1 --x -1.258502605254335
+exit_status: 0

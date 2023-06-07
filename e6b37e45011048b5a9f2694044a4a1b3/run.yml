@@ -1,0 +1,10 @@
+id: e6b37e45011048b5a9f2694044a4a1b3
+operation: train
+status: completed
+started: 2023-06-07 16:20:28 UTC
+stopped: 2023-06-07 16:20:28 UTC
+time: 0:00:00
+marked: 'no'
+label: operation:prepare-data=4cc9cab7b41048f58cde8031d79a59c6
+command: touch model.csv
+exit_status: 0
